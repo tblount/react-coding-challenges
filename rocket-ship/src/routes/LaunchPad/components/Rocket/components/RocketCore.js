@@ -4,6 +4,7 @@ import '../styles/_rocket.scss';
 const SECONDS_TO_TAKEOFF = 5;
 const MS_TO_TAKEOFF = SECONDS_TO_TAKEOFF * 1000;
 const FINAL_POSITION_BOTTOM_VAL = 'calc(400px)';
+const FINAL_POSITION = 'calc(4000px)';
 
 function timeToPositionPercent(startTime) {
   const now = Date.now();
