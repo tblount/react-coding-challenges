@@ -1,3 +1,6 @@
+// // Terrance Blount 
+// 2/14/24 - This is what i was doing for V Day
+
 import React, { useState, Component } from 'react';
 import RocketCore from './RocketCore';
 
